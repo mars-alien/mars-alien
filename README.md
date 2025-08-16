@@ -1,6 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mars-alien" alt="royal sachan" /> </p>
 <h1 align="center">Hi 👋, This is Royal Sachan</h1>
 <h3 align="center">Studying CSE at IIIT Manipur |MERN Stack Developer | Java | Javscript</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mars-alien" alt="royal sachan" /> </p>
 
 - 🙋‍♂️ I build **Microservices based advanced backend projects**
 - 💬 Ask me about **react**
