@@ -1,11 +1,9 @@
-<!--![logo](https://github.com/AbhinayBhadauria99/AbhinayBhadauria99/blob/main/banner2.png)--->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mars-alien" alt="royal sachan" /> </p>
 <h1 align="center">Hi 👋, This is Royal Sachan</h1>
 <h3 align="center">Studying CSE at IIIT Manipur |MERN Stack Developer | Java | Javscript</h3>
 
 - 🙋‍♂️ I build **Microservices based advanced backend projects**
-- 💬 Ask me about **react and gsap**
+- 💬 Ask me about **react**
 - 🔭 I’m currently working on building scalable and efficient MERN stack applications.
 - 🌱 I’m passionate about continuous learning and staying updated with the latest technologies.
 - 👯 I’m looking to collaborate on open source projects and contribute to the developer community.
