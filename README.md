@@ -22,7 +22,7 @@
 
 
 ### 📈 How about some stats
-<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true" alt="royal_sachan" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true" alt="royal_sachan" /></div>
 <br/>
 
 
