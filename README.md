@@ -26,9 +26,11 @@
 
 
 
-### 📈 How about some stats
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true" alt="royal_sachan" /></div>
-<br/>
+### 📈 Here is my Github stats
+<div align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mars-alien&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&" alt="royal" />
+</div>
 
 
 ## <h3 align="left">Languages and Tools:</h3>
