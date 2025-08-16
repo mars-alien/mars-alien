@@ -21,21 +21,9 @@
 
 
 
-### 📊 GitHub Stats
-
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royalsachan&show_icons=true&theme=radical&hide_border=true)
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royalsachan&theme=radical&hide_border=true)
-
-<!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsachan&theme=radical&hide_border=true&layout=compact)
-
-<!-- Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=royalsachan&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
+### 📈 How about some stats
+<div align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajesh-royal&show_icons=true" alt="rajesh-royal" /></div>
+<br/>
 
 
 ## <h3 align="left">Languages and Tools:</h3>
