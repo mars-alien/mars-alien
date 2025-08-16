@@ -28,8 +28,10 @@
 
 ### 📈 Here is my Github stats
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mars-alien&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&" alt="royal" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&count_private=true&cache_seconds=1800" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&cache_seconds=1800" alt="royal" />
+
 </div>
 
 
