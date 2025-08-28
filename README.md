@@ -92,21 +92,7 @@ const royalSachan = {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-### 📈 Profile Overview
-![](https://github-readme-stats.vercel.app/api?username=mars-alien&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔥 GitHub Streak
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mars-alien&theme=dark&background=000000)](https://git.io/streak-stats)
-
-### 📊 Contribution Graph
-[![Royal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mars-alien&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📊 GitHub Analytics
 
@@ -118,7 +104,7 @@ const royalSachan = {
 
 </div>
 
-</div>
+
 
 ---
 
