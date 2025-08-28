@@ -23,11 +23,11 @@
 const royalSachan = {
     education: "Computer Science Engineering @ IIIT Manipur",
     currentFocus: "MERN Stack Development",
-    languages: ["Java", "JavaScript", "TypeScript", "Python", "C++"],
+    languages: ["Java", "JavaScript", "TypeScript", "Python"],
     expertise: "Microservices Architecture & Scalable Backend Systems",
-    passion: "Continuous Learning & Open Source Contribution",
-    goal: "Becoming a Full Stack Developer & Creating Innovative Tech Solutions",
-    pronouns: "He/Him"
+    passion: "Continuous Learning & Open Source Contribution"
+    
+    
 };
 ```
 
@@ -97,9 +97,6 @@ const royalSachan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mars-alien&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Royal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=dark&hide_border=false)
 
@@ -111,7 +108,7 @@ const royalSachan = {
 
 ---
 
-## 🏆 Achievements
+
 
 <div align="center">
 
