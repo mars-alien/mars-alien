@@ -6,7 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mars-alien&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mars-alien?style=flat-square&color=blue" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/mars-alien?style=flat-square&color=blue&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/mars-alien?style=flat-square&color=yellow&label=Total%20Stars" alt="GitHub stars" />
 </p>
 
 </div>
@@ -83,16 +84,16 @@ const royalSachan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mars-alien&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mars-alien&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mars-alien&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mars-alien&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mars-alien&theme=react-dark&hide_border=true&custom_title=Royal's%20Contribution%20Graph" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -100,7 +101,7 @@ const royalSachan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mars-alien&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mars-alien&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
