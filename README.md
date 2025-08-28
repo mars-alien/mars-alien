@@ -97,6 +97,7 @@ const royalSachan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mars-alien&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ![Royal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
