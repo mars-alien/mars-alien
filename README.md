@@ -1,13 +1,16 @@
-# 👋 Hi there! I'm Royal Sachan
+<div align="center">
+  # 👋 Hi there! I'm Royal Sachan
+</div>
 
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CSE+Student+at+IIIT+Manipur;MERN+Stack+Developer;Java+%26+JavaScript+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mars-alien&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mars-alien?style=flat-square&color=blue&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/mars-alien?style=flat-square&color=yellow&label=Total%20Stars" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=mars-alien&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-Java%20%26%20JavaScript-brightgreen" />
 </p>
 
 </div>
@@ -72,10 +75,18 @@ const royalSachan = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-### Tools & Technologies
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### Development Tools
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -84,24 +95,43 @@ const royalSachan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mars-alien&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mars-alien&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mars-alien&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+### 📈 Profile Overview
+![](https://github-readme-stats.vercel.app/api?username=mars-alien&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mars-alien&theme=react-dark&hide_border=true&custom_title=Royal's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+### 💻 Most Used Languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔥 GitHub Streak
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mars-alien&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### 📊 Contribution Graph
+[![Royal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mars-alien&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mars-alien&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+
+### 🎯 Current Focus
+```yaml
+🔥 Building: Microservices Architecture
+🌱 Learning: Advanced MERN Stack
+🎯 Goal: Full Stack Developer
+📍 Location: India
+🎓 Education: CSE @ IIIT Manipur
+```
+
+### 💡 Quick Stats
+- 🌟 **Languages**: Java, JavaScript, TypeScript, Python, C++
+- 🚀 **Frameworks**: React, Node.js, Redux  
+- ☁️ **Cloud**: AWS, Firebase
+- 🛠️ **Tools**: Docker, Git, Jupyter, VS Code
+- 📊 **Databases**: MongoDB, MySQL
+
 </div>
 
 ---
