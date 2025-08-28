@@ -108,6 +108,16 @@ const royalSachan = {
 ### 📊 Contribution Graph
 [![Royal's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mars-alien&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![Royal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=dark&hide_border=false)
+
+</div>
+
 </div>
 
 ---
