@@ -126,7 +126,7 @@ const royalSachan = {
 - 🚀 **Frameworks**: React, Node.js, Redux  
 - ☁️ **Cloud**: AWS, Firebase
 - 🛠️ **Tools**: Docker, Git, Jupyter, VS Code
-- 📊 **Databases**: MongoDB, MySQL
+- 📊 **Databases**: MongoDB, PgSQL
 
 </div>
 
