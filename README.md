@@ -99,7 +99,7 @@ const royalSachan = {
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=dark&hide_border=false)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&theme=dark&hide_border=false)<br/>
 
 
 </div>
