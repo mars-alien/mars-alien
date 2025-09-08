@@ -94,15 +94,15 @@ const royalSachan = {
 
 
 
-<div align="center">
+## My GitHub Stats 📈
 
 
-
- ### 📊 Github Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mars-alien&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mars-alien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+<a href="https://github.com/mars-alien">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mars-alien&count_private=true&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mars-alien&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+</a>
+</p>
 
 
 
