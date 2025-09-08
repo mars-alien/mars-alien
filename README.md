@@ -100,7 +100,7 @@ const royalSachan = {
 
   <img src="https://github-readme-stats.vercel.app/api?username=mars-alien&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=dark&hide_border=false card_height=300" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&theme=dark&hide_border=false" />
 
