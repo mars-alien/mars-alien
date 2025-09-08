@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mars-alien&color=brightgreen" alt="watching_count" />
   <img src="https://img.shields.io/badge/Focus-MERN%20Stack-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Lives-Kanpur,India-success" />
   <img src="https://img.shields.io/badge/Languages-Java%20%26%20JavaScript-brightgreen" />
 </p>
 
