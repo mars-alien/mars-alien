@@ -15,21 +15,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-```typescript
-const royalSachan = {
-    education: "Computer Science Engineering @ IIIT Manipur",
-    currentFocus: "MERN Stack Development",
-    languages: ["Java", "JavaScript", "TypeScript", "Python"],
-    expertise: "Microservices Architecture & Scalable Backend Systems",
-    passion: "Continuous Learning & Open Source Contribution"
-    
-    
-};
-```
 
 ## 🔥 What I'm Up To
 
@@ -92,10 +77,7 @@ const royalSachan = {
 
 ---
 
-
-
 ## My GitHub Stats 📈
-
 
 <p align="center">
 <a href="https://github.com/mars-alien">
@@ -109,42 +91,3 @@ const royalSachan = {
 
 
 
----
-
-
-
-<div align="center">
-
-### 🎯 Current Focus
-```yaml
-🔥 Building: Microservices Architecture
-🌱 Learning: Advanced MERN Stack
-🎯 Goal: Full Stack Developer
-📍 Location: India
-🎓 Education: CSE @ IIIT Manipur
-```
-
-### 💡 Quick Stats
-- 🌟 **Languages**: Java, JavaScript, TypeScript, Python, C++
-- 🚀 **Frameworks**: React, Node.js, Redux  
-- ☁️ **Cloud**: AWS, Firebase
-- 🛠️ **Tools**: Docker, Git, Jupyter, VS Code
-- 📊 **Databases**: MongoDB, PgSQL
-
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-**⭐ Star my repositories if you find them useful!**
-
----
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-*Made with ❤️ by Royal Sachan*
-
-</div>
