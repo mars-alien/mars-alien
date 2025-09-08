@@ -97,7 +97,7 @@ const royalSachan = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+![](https://github-readme-stats.vercel.app/api?username=mars-alien&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=dark&hide_border=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mars-alien&theme=dark&hide_border=false)<br/>
 
