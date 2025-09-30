@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CSE+Student+at+IIIT+Manipur;MERN+Stack+Developer;Java+%26+JavaScript+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CSE+Student+at+IIIT+Manipur;MERN+Stack+Developer;JavaScript+Enthusiast;Building+Scalable+Applications)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mars-alien&color=brightgreen" alt="watching_count" />
@@ -15,15 +15,11 @@
 
 </div>
 
-
-## 🔥 What I'm Up To
-
-- 🛠️ **Building** Microservices based advanced backend projects
-- 💻 **Working on** scalable and efficient MERN stack applications
-- 🌱 **Learning** the latest technologies and best practices
-- 👥 **Collaborating** on open source projects
-- 💬 **Ask me about** React and modern web development
-- 🎯 **Goal:** Contributing to innovative tech solutions
+👋 Hi, I'm Royal,
+* 🛠️ I'm interested in building microservices-based advanced backend projects and scalable MERN stack applications using React, Node.js, Express
+* 🌱 I'm currently learning the latest technologies, best practices, Java, Python, AI and ML, and exploring microservices architecture
+* 💞️ I'm looking to collaborate on open source projects, innovative tech solutions, and modern full-stack development projects
+* ⚡ Fun fact: Microservices architecture can handle millions of requests by distributing load across independent services (In my opinion this is the closest to infinitely scalable software we have gotten)
 
 ---
 
