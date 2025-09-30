@@ -15,7 +15,6 @@
 
 </div>
 
-👋 Hi, I'm Royal,
 * 🛠️ I'm interested in building microservices-based advanced backend projects and scalable MERN stack applications using React, Node.js, Express
 * 🌱 I'm currently learning the latest technologies, best practices, Java, Python, AI and ML, and exploring microservices architecture
 * 💞️ I'm looking to collaborate on open source projects, innovative tech solutions, and modern full-stack development projects
