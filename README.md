@@ -1,50 +1,42 @@
 <h1 align="center">Royal Sachan</h1>
 
 <p align="center">
-  <b>Backend &amp; full-stack engineer</b> · Spring Boot · FastAPI · React
+  Backend &amp; full-stack engineer who ships <b>documented, runnable, reproducible</b> projects
   <br/>
-  CS undergrad @ IIIT Manipur — open to backend / full-stack internships
+  Spring Boot · FastAPI · React · PostGIS
 </p>
 
 <p align="center">
   <a href="https://royals-three.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/royalsachan">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL_+_PostGIS-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-I build production-shaped backends end to end — REST APIs with real authentication, geospatial queries that scale, and applied-ML features that ship. Strongest in **Java/Spring Boot** and **Python/FastAPI**.
+### Why my repos are worth a look
 
-### What I've shipped
+Every flagship has a real README, a one-command local setup, a clear architecture diagram, and documented engineering trade-offs. I write code that someone else can read, run, and build on.
 
-| Project | What it does | Stack | Highlights |
-|---|---|---|---|
-| **[Sangam](https://github.com/mars-alien/sangam)** · [live](https://sangam123.vercel.app) | Geospatial social-meetup platform | Java 21, Spring Boot, PostGIS, Redis, React | Radius search on a spatial index, JWT refresh-token rotation, event state machine, CI/CD, Dockerized, deployed |
-| **[EcoRoute](https://github.com/mars-alien/eco-route)** | Last-mile delivery route optimizer | Python, FastAPI, MongoDB, React | K-Means++ & TSP **written from scratch**, async geo-indexed queries, role-based auth |
-| **[page-mind](https://github.com/mars-alien/page-mind)** | In-browser RAG over any webpage | Chrome MV3, Transformers.js, Gemini, FastAPI | 100% client-side embeddings, grounded retrieval, privacy-first |
+### Projects
 
-### Skills
+**[Sangam](https://github.com/mars-alien/sangam)** — geospatial social-meetup platform
+[Live demo](https://sangam123.vercel.app) · [Swagger API](https://sangam-backend-production.up.railway.app/swagger-ui.html)
+> `Java 21` · `Spring Boot 3.2` · `PostgreSQL + PostGIS` · `Redis` · `React` · `Docker` · `GitHub Actions`
+> Reproducible by design: Flyway-versioned schema with `ddl-auto: validate`, seeded demo data on first startup, Testcontainers running the same PostGIS image in CI as in prod. Documented decisions on Flyway-vs-Hibernate, PostGIS-vs-Haversine, and where the state machine lives.
 
-**Languages** Java · Python · JavaScript · SQL
-**Backend** Spring Boot · FastAPI · REST · JWT · Redis
-**Data** PostgreSQL + PostGIS · MongoDB
-**Frontend** React · Vite · Tailwind · Leaflet
-**DevOps** Docker · GitHub Actions · Railway · Vercel
+**[EcoRoute](https://github.com/mars-alien/eco-route)** — last-mile delivery route optimizer
+> `Python` · `FastAPI` · `MongoDB + GeoJSON` · `React` · `Docker Compose`
+> K-Means++ and Nearest-Neighbor TSP implemented from scratch in pure Python — the optimization engine has zero framework imports, so it's testable and explainable in isolation. Modular-monolith layout via FastAPI `APIRouter`.
 
-<p align="center">
-  <a href="https://royals-three.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/royalsachan">LinkedIn</a>
-</p>
+**[page-mind](https://github.com/mars-alien/page-mind)** — in-browser RAG Chrome extension
+> `Chrome MV3` · `Transformers.js (WASM)` · `Gemini 2.0 Flash Lite` · `FastAPI` · `React`
+> Clean module split (chunker / embedder / retriever / gemini client) and an honest "Known Limitations" + Web-Store-readiness checklist in the README.
+
+### Stack
+
+`Java` `Python` `JavaScript` · `Spring Boot` `FastAPI` · `PostgreSQL/PostGIS` `MongoDB` `Redis` · `React` `Vite` `Tailwind` `Leaflet` · `Docker` `GitHub Actions`
+
+### Open to
+
+Backend / full-stack open-source contributions, especially around APIs, geospatial data, and developer tooling. Reach me on [LinkedIn](https://www.linkedin.com/in/royalsachan).
