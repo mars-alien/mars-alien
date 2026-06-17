@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CSE+Student+at+IIIT+Manipur;Backend+%26+Full-Stack+Engineer;Spring+Boot+%7C+FastAPI+%7C+React;Building+Geospatial+%26+AI+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=CSE+Student+at+IIIT+Manipur;Backend+%26+Full-Stack+Engineer;Spring+Boot+%7C+FastAPI+%7C+React;Building+Scalable+%26+AI+Systems)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mars-alien&color=brightgreen" alt="watching_count" />
@@ -15,24 +15,10 @@
 
 </div>
 
-* 🛠️ I build backend-heavy full-stack systems with **Java/Spring Boot** and **Python/FastAPI** — REST APIs, JWT auth, geospatial queries, and applied AI/RAG
-* 🌱 I'm currently deepening **system design, Spring Boot, and RAG** (hybrid BM25 + vector retrieval)
+* 🛠️ I build backend and full-stack systems with **Java/Spring Boot** and **Python/FastAPI** — designing clean REST APIs and scalable services
+* 🌱 I'm currently deepening **system design, backend engineering, and applied AI/ML**
 * 💞️ I'm looking to collaborate on open source projects and backend / full-stack development
-* ⚡ Fun fact: A well-designed modular monolith beats premature microservices almost every time — clean module boundaries without the network hops and distributed-transaction pain
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Sangam](https://github.com/mars-alien/sangam)** · [live](https://sangam123.vercel.app) | Geospatial social-meetup platform with waitlist auto-promotion | `Java 21` `Spring Boot` `PostGIS` `Redis` `React` |
-| **[EcoRoute](https://github.com/mars-alien/eco-route)** | Last-mile delivery optimizer — K-Means++ & TSP from scratch | `Python` `FastAPI` `MongoDB` `React` |
-| **[page-mind](https://github.com/mars-alien/page-mind)** | In-browser RAG over any webpage (Chrome extension) | `Transformers.js` `Gemini` `FastAPI` |
-
-</div>
+* ⚡ Fun fact: I enjoy turning messy, real-world problems into clean, well-structured systems
 
 ---
 
@@ -42,7 +28,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://royals-three.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/royalsachan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/royal.sachan_)
 
 </div>
 
@@ -73,6 +58,7 @@
 ![PostGIS](https://img.shields.io/badge/PostGIS-008000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-3B82F6?style=for-the-badge&logoColor=white)
 
 ### Cloud & DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
