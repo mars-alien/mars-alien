@@ -91,13 +91,6 @@
 
 ## My GitHub Stats 📈
 
-<!--
-  Uses the OFFICIAL maintained endpoints (github-readme-stats.vercel.app + streak-stats.demolab.com).
-  NOTE: the commits/streak/contribution numbers only fill in once your activity is public:
-  Settings -> Public profile -> "Include private contributions on my profile".
-  The Top Languages card works either way.
--->
-
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
   <img height="170em" src="https://streak-stats.demolab.com?user=mars-alien&background=000325&border=ffd2ce&stroke=ffd2ce&ring=e4626b&fire=e4626b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=gold&sideLabels=ffffff&dates=ffffff" />
