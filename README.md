@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://royals-three.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/royalsachan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royalsachaniiitm@gmail.com)
-<!-- Replace USERNAME below with your LeetCode handle -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/spider-)
 <img src="https://komarev.com/ghpvc/?username=mars-alien&style=for-the-badge&color=blue&label=Profile+Views" alt="profile views" />
 
@@ -19,7 +18,7 @@
 
 ## 👨‍💻 About
 
-Final-year Computer Science student at **IIIT Manipur**, building secure, scalable backend systems. I work across **Node.js / Express, FastAPI, and PostgreSQL**, with applied experience in **RAG pipelines and LLMs**, backed by a strong algorithmic foundation.
+Final-year Computer Science student at **IIIT Manipur**, building secure, scalable backend systems. I work across **Spring Boot, Node.js / Express, FastAPI, and PostgreSQL**, with applied experience in **RAG pipelines and LLMs**, backed by a strong algorithmic foundation.
 
 - 🔐 Built **JWT auth + role-based access control** securing **20+ REST endpoints** across 3 user roles, hardened with rate limiting, CORS, and Helmet.js
 - ⚡ Cut response time **~30%** on high-traffic endpoints via PostgreSQL indexing and query optimization
@@ -40,10 +39,12 @@ Final-year Computer Science student at **IIIT Manipur**, building secure, scalab
 
 ## 🛠️ What I've Built
 
+**[Nexus — Event Companion Platform](https://github.com/mars-alien/nexus)** · [Live](https://nexus-royal.vercel.app) — `Java` · `Spring Boot` · `PostgreSQL / PostGIS` · `React` · `Docker`
+Full-stack event-discovery platform built as a Spring Boot monolith with role-based group join approval, automated waitlist promotion, and real-time notifications. Implements location-based search using **PostGIS** geospatial indexing with **sub-100ms** distance-ranked queries, **JWT refresh-token rotation** for stateless security, and Flyway-managed schema migrations — containerised with Docker and deployed on Render.
+
 **[RAG-Powered AI Knowledge Assistant](https://github.com/mars-alien/page-mind)** — `Python` · `FastAPI` · `Weaviate` · `Groq LLaMA 3.3-70B` · `React`
 Chrome extension for semantic Q&A over any webpage. DOM-aware ingestion that preserves heading hierarchy for coherent chunking, a hybrid sparse + dense retriever with Reciprocal Rank Fusion, and JWT-secured APIs — evaluated end to end with RAGAS.
 
-<!-- Add the repo link below once it's public -->
 **Multi-Bit Watermarking for LLMs** — `Python` · `FastAPI` · `PyTorch` · `Transformers`
 Embeds and statistically recovers hidden messages in GPT-2 output via dynamic vocabulary partitioning, SHA-256 deterministic hashing, and adaptive logit biasing — with Z-score detection and majority-vote symbol reconstruction.
 
@@ -61,9 +62,9 @@ MERN platform with OAuth (Google / GitHub), JWT sessions, SendGrid email verific
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
@@ -71,7 +72,6 @@ MERN platform with OAuth (Google / GitHub), JWT sessions, SendGrid email verific
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-3B82F6?style=for-the-badge&logo=weaviate&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI / ML & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -106,17 +106,6 @@ MERN platform with OAuth (Google / GitHub), JWT sessions, SendGrid email verific
 ---
 
 ## 📊 GitHub Stats
-
-<!--
-  The overview + streak cards are hidden for now because they read 0 until the
-  contribution graph builds up. Once github.com/mars-alien shows green squares,
-  delete this comment block's markers to switch them back on.
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="170em" src="https://streak-stats.demolab.com?user=mars-alien&background=000325&border=ffd2ce&stroke=ffd2ce&ring=e4626b&fire=e4626b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=gold&sideLabels=ffffff&dates=ffffff" />
-</p>
--->
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&bg_color=000325&text_color=ffffff&title_color=gold&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c" />
