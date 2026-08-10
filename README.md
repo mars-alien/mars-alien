@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Royal%20Sachan&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20Applied%20AI&descAlignY=54&descSize=18" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Royal%20Sachan&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20Applied%20RAG&descAlignY=54&descSize=18" width="100%" alt="banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CSE+Student+at+IIIT+Manipur;Backend+%26+Full-Stack+Engineer;Applied+AI+%2F+RAG+%7C+LLMs;Building+Scalable+%26+Secure+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&height=45&lines=CSE+Student+at+IIIT+Manipur;Backend+%26+Full-Stack+Engineer;Applied+RAG;Building+Scalable+%26+Secure+Systems)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -11,8 +11,10 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royalsachaniiitm@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/spider-)
 
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=mars-alien&style=flat-square&color=36BCF7&label=Profile+Views" alt="profile views" />
-<img src="https://img.shields.io/badge/Open%20to-Backend%20%2F%20AI%20Roles-2F9E6E?style=flat-square" alt="open to work" />
+<img src="https://img.shields.io/badge/Open%20to-AI%20%2F%20ML%20%26%20Backend%20Roles-2F9E6E?style=flat-square" alt="open to work" />
 
 </div>
 
@@ -22,34 +24,35 @@
 
 > Final-year CSE student at **IIIT Manipur**, building secure, scalable backend systems — and the retrieval/agent layers on top of them.
 
-I work across **Spring Boot, FastAPI, Node.js and PostgreSQL/MongoDB**, with production-shaped experience in **RAG pipelines, multi-agent systems and LLM tooling**, backed by a strong algorithmic foundation.
+I work across **Express.js,Node.js,React.js, FastAPI,SpringBoot and PostgreSQL/MongoDB**, with hands-on experience building **RAG pipelines and multi-agent systems** end to end.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**🔐 Security & API design**
+**🔐 Security & API Design**
+
+<br/>
+
 JWT auth + RBAC across **20+ REST endpoints** and 3 user roles — hardened with rate limiting, CORS and Helmet.js.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **⚡ Performance**
+
+<br/>
+
 Cut response time **~30%** on high-traffic endpoints through PostgreSQL indexing and query optimisation.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**🧠 Retrieval engineering**
+**🧠 Retrieval Engineering**
+
+<br/>
+
 Hybrid **BM25 + HNSW** retriever with Reciprocal Rank Fusion (BAAI/bge-m3, 1024-dim) in Weaviate, evaluated with RAGAS.
-
-</td>
-<td width="50%" valign="top">
-
-**🔬 Research**
-End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adaptive logit biasing, Z-score detection.
 
 </td>
 </tr>
@@ -64,7 +67,7 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 <td width="50%" valign="top">
 
 ### 📰 PaperTrail
-**Multi-Article RAG Research Assistant**
+**Multi-Article RAG Research Assistant**<br/>
 *Paste news URLs → ask anything → get cited, streamed answers.*
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Weaviate-3B82F6?style=flat-square&logo=weaviate&logoColor=white" /> <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -82,7 +85,7 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 <td width="50%" valign="top">
 
 ### 🎟️ Nexus
-**Event Companion Platform**
+**Event Companion Platform**<br/>
 *Discover events near you, join groups, get promoted off the waitlist.*
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -101,7 +104,7 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 <td width="50%" valign="top">
 
 ### 🌿 EcoRoute
-**Intelligent Delivery Route Optimizer**
+**Intelligent Delivery Route Optimizer**<br/>
 *Cluster orders geographically, sequence stops, cut fuel and emissions.*
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -117,7 +120,7 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 <td width="50%" valign="top">
 
 ### 🏛️ Valura AI Arena
-**Multi-Agent Financial Analyst Ecosystem**
+**Multi-Agent Financial Analyst Ecosystem**<br/>
 *Eight Agno agents answering client-book questions — provably in scope.*
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Agno-6D28D9?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -141,11 +144,11 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 
 **Languages & Core**
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,c&theme=dark)](https://skillicons.dev)
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -155,14 +158,12 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,postman,linux,vscode&theme=dark)](https://skillicons.dev)
 
-**AI / ML**
+**AI / ML & Retrieval**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge)
+![Hybrid Retrieval](https://img.shields.io/badge/Hybrid_Retrieval-BM25_%2B_HNSW_%2B_Reranking-0EA5E9?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-3B82F6?style=for-the-badge&logo=weaviate&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-Groq-F55036?style=for-the-badge)
 
 </div>
 
@@ -174,15 +175,15 @@ End-to-end **multi-bit watermarking for LLMs** — deterministic hashing, adapti
 <tr>
 <td width="55%" valign="top">
 
-**💻 Backend Developer Intern**
-Atal Innovation Centre, Delhi
+**💻 Backend Developer Intern**<br/>
+Atal Innovation Centre, Delhi<br/>
 `Jun 2024 – Jan 2025`
 
 </td>
 <td width="45%" valign="top">
 
-**🎓 B.Tech, Computer Science & Engineering**
-IIIT Manipur
+**🎓 B.Tech, Computer Science & Engineering**<br/>
+IIIT Manipur<br/>
 `Sep 2023 – Aug 2027`
 
 </td>
@@ -197,13 +198,13 @@ IIIT Manipur
 <tr>
 <td width="50%" valign="top">
 
-🥈 **AIR 2 — Engineer's Ring of Honour 2025**
+🥈 **AIR 2 — Engineer's Ring of Honour 2025**<br/>
 Naukri.com, among IIT / IIIT / NIT participants — scholarship awarded and featured in *Times of India*
 
 </td>
 <td width="50%" valign="top">
 
-🌍 **Rank 5,204 globally — Meta Hacker Cup 2025**
+🌍 **Rank 5,204 globally — Meta Hacker Cup 2025**<br/>
 Cleared Round 1 among hundreds of thousands of competitors
 
 </td>
@@ -211,14 +212,13 @@ Cleared Round 1 among hundreds of thousands of competitors
 <tr>
 <td width="50%" valign="top">
 
-📡 **Top 3 proposals at IIIT Manipur**
+📡 **Top 3 proposals at IIIT Manipur**<br/>
 5G Innovation Hackathon 2025, Dept. of Telecommunications, Govt. of India
 
 </td>
 <td width="50%" valign="top">
 
-🎯 **Qualified GATE CS 2026** · 💻 **350+ DSA problems**
-Across LeetCode, Codeforces, CodeChef and GeeksforGeeks
+🎯 **Qualified GATE CS 2026** · 
 
 </td>
 </tr>
@@ -226,20 +226,19 @@ Across LeetCode, Codeforces, CodeChef and GeeksforGeeks
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="divider" />
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mars-alien&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=gamebase&hide=objective-c,c" alt="top languages" />
-
-<br/>
-
-<img height="165em" src="https://streak-stats.demolab.com?user=mars-alien&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="165" src="https://github-readme-stats-seven-tau-38.vercel.app/api?username=mars-alien&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats-seven-tau-38.vercel.app/api/top-langs/?username=mars-alien&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&exclude_repo=gamebase&hide=jupyter%20notebook,objective-c,c,shell" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=mars-alien&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img height="180" src="https://streak-stats.demolab.com?user=mars-alien&theme=tokyonight&hide_border=true&border_radius=8" alt="Contribution streak" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mars-alien&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=8" alt="Contribution activity graph" />
 
 </div>
 
@@ -249,7 +248,7 @@ Across LeetCode, Codeforces, CodeChef and GeeksforGeeks
 
 ### 💬 Let's build something
 
-Open to **backend, full-stack and applied-AI** roles — and to interesting problems in retrieval, agents and distributed systems.
+Open to **AI/ML, backend and full-stack** roles — and to interesting problems in retrieval, agents and distributed systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://royals-three.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/royalsachan)
