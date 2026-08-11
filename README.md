@@ -234,11 +234,17 @@ Cleared Round 1 among hundreds of thousands of competitors
 
 <br/><br/>
 
+<img height="180" src="https://streak-stats.demolab.com?user=mars-alien&theme=tokyonight&hide_border=true&border_radius=8" alt="Contribution streak" />
+
+<br/><br/>
+
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mars-alien&theme=tokyo-night&bg_color=1A1B27&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&radius=8" alt="Contribution activity graph" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4" alt="divider" />
+
+<div align="center">
 
 ### 💬 Let's build something
 
